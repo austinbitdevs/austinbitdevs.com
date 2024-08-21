@@ -1,6 +1,6 @@
-title: 'Austin Bitcoin Developers'
-tagline: 'Austin Bitcoin Developers is a meetup devoted to the research and development of Bitcoin'
+title: 'San Antonio Bitcoin Developers'
+tagline: 'San Antonio Bitcoin Developers is a meetup devoted to the research and development of Bitcoin and cryptocurrency'
 
 menu:
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Austin-Bitcoin-Developers/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/sabitdevs/', external: true}

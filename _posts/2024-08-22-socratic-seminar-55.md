@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 55"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379217
+title: "Socratic 003"
+meetup: https://www.meetup.com/sabitdevs/events/302482066
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -20,7 +18,7 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379217
 - [Dark Skippy](https://x.com/utxoclub/status/1820520960476561825)
   - [mitigations](https://x.com/nunchuk_io/status/1820710359780704557)
 - [Engineering a backdoored bitcoin wallet](https://x.com/wootsecurity/status/1823085045399363882) ([paper](https://www.usenix.org/conference/woot24/presentation/scott))
-- [Taproot Assets!](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+- [Taproot Assets!](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/) ([diagram](https://x.com/hmichellerose/status/1819417741394067716?s=46))
 - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/28553)
 - Another Super invention: [StatechainJS](https://github.com/supertestnet/statechainjs) ([demo](https://www.youtube.com/watch?v=24pNIs6M7qo))
 - [Statistics on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052) ([optech post](https://bitcoinops.org/en/newsletters/2024/08/09/#statistics-on-compact-block-reconstruction))

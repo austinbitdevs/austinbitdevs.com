@@ -1,4 +1,4 @@
-# Austin Bitcoin Developers
+# San Antonio Bitcoin Developers
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -23,7 +23,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/[event id here]/
+meetup: https://www.meetup.com/sabitdevs/events/[event id here]/
 ---
 ```
 
