@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/sabitdevs/events/302482066
 - [Taproot Assets!](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/) ([diagram](https://x.com/hmichellerose/status/1819417741394067716?s=46))
 - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/28553)
 - Another Super invention: [StatechainJS](https://github.com/supertestnet/statechainjs) ([demo](https://www.youtube.com/watch?v=24pNIs6M7qo))
+- [Fedimint launch](https://x.com/_JustinMoon_/status/1820994029246464098)
 - [Statistics on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052) ([optech post](https://bitcoinops.org/en/newsletters/2024/08/09/#statistics-on-compact-block-reconstruction))
 - [Great Script Restoration Update](https://primal.net/e/note1vwf4lxff22ps40k2yv4p5jrg5wncwsakxnwwcecmmg5gs8nv635qvg6v39)
 - [BitVM v2 bridge](https://bitvm.org/bitvm_bridge.pdf) [TLDR](https://twitter.com/alexeiZamyatin/status/1824034904516051335)
