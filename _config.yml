@@ -9,8 +9,8 @@ sass:
   style: :compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Austin Bitcoin Developers"
-description: "Austin Bitcoin Developers is a meetup devoted to the research and development of Bitcoin."
+title: "San Antonio Bitcoin Developers"
+description: "San Antonio Bitcoin Developers is a Meetup devoted to the research and development of Bitcoin and cryptocurrency."
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
