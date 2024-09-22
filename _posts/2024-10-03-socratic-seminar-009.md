@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 56"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379218/
+title: "Socratic 009"
+meetup: https://www.meetup.com/sabitdevs/events/303385365/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -17,11 +15,12 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379218/
 
 # Topics
 
-- [Pager supply chain attack](https://www.washingtonpost.com/technology/2024/09/19/hezbollah-pager-attack-supply-chain/)
-- [Fedi launch](https://x.com/_JustinMoon_/status/1820994029246464098)
-- [Bolt12 at strike](https://strike.me/blog/bolt12-offers/)
-- [lnd 0.18.3](https://x.com/roasbeef/status/1835807639374274786)
+- [Pager &amp; walkie-talkie supply chain attacks](https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288)
+- [Strike enables BOLT 12 offers](https://strike.me/blog/bolt12-offers/)
+- [LND 0.18.3](https://x.com/roasbeef/status/1835807639374274786)
+  - Blinded paths for BOLT 11 invoices
 - [LDK 0.0.124](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.124)
+  - `rust-bitcoin` crate upgraded to v0.32
 - [Super Scalar: Zman's new factory scheme](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
 - [UTXO proof in ZK](https://github.com/halseth/utxozkp)
 - [Drop db cache limit - bitcoin core](https://github.com/bitcoin/bitcoin/pull/28358)
@@ -33,4 +32,20 @@ meetup: https://www.meetup.com/austin-bitcoin-developers/events/300379218/
 - [Layer2 Review by Peter Todd](https://petertodd.org/2024/covenant-dependent-layer-2-review) [The Fix](https://github.com/bitcoin/bitcoin/pull/30647)
 - [Testnet4 consensus failure](https://github.com/bitcoin/bitcoin/issues/30786)
 - [10101 shutting down](https://10101.finance/blog/10101-is-shutting-down/)
+  - First self-custodial trading platform based on DLCs, 1st WolfNYC cohort
+  - First DLCs on LN
+  - First non-custodial stablecoin on LN
+  - Evacuate ASAP - no trading after October, and full expiry by 11/03!
+  - Close your LN channels
+- [Nayuta wallet shutting down](https://medium.com/nayuta-en/announcement-of-nayuta-inc-closure-d08b17c73dd8)
 - [Lava DLC loans](https://github.com/lava-xyz/loans-paper/blob/960b91af83513f6a17d87904457e7a9e786b21e0/loans_v2.pdf)
+- [Zaprite POS launch](https://x.com/willcole/status/1829235636114530653)
+- [Babylon PoS launch](https://x.com/babylonlabs_io/status/1826584639147848087)
+ - [Fee spike](https://x.com/mononautical/status/1826604180251050388)
+ - [Explainer](https://x.com/babylonlabs_io/status/1823315519417508314)
+ - [LST collaboration with BoB](https://decrypt.co/247257/native-btc-staking-bitcoin-layer-2-networks-babylon)
+- [Fractals mainnet launch](https://www.fractalbitcoin.io/updates/fractal-mainnet-launches-press-release)
+  - Merge minded (and not)
+  - Ledger size may reach 1.2TB/year
+- [House Financial Services Subcommittee session on DeFi](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409331)
+- [House Financial Services Subcommittee session on SEC behavior](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409360)
