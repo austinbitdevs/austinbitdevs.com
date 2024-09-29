@@ -53,4 +53,4 @@ meetup: https://www.meetup.com/sabitdevs/events/303385365/
   - [Spec](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
 - [House Financial Services Committee session on DeFi](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409331)
 - [House Financial Services Committee session on SEC behavior](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409360)
-- [House Financial Services Committee session on SEC Oversight](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409374)
+- [House Financial Services Committee session on SEC oversight](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409374)
