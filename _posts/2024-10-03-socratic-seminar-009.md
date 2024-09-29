@@ -47,5 +47,10 @@ meetup: https://www.meetup.com/sabitdevs/events/303385365/
 - [Fractals mainnet launch](https://www.fractalbitcoin.io/updates/fractal-mainnet-launches-press-release)
   - Merge minded (and not)
   - Ledger size may reach 1.2TB/year
-- [House Financial Services Subcommittee session on DeFi](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409331)
-- [House Financial Services Subcommittee session on SEC behavior](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409360)
+- BOLT 12 merged into Lightning spec
+  - [Announcement](https://stacker.news/items/698612)
+  - [Merge](https://github.com/lightning/bolts/commit/aed3d28d5a202a0dd7b037fca4c04f58242fa909)
+  - [Spec](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
+- [House Financial Services Committee session on DeFi](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409331)
+- [House Financial Services Committee session on SEC behavior](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409360)
+- [House Financial Services Committee session on SEC Oversight](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409374)
