@@ -41,9 +41,9 @@ meetup: https://www.meetup.com/sabitdevs/events/303385365/
 - [Lava DLC loans](https://github.com/lava-xyz/loans-paper/blob/960b91af83513f6a17d87904457e7a9e786b21e0/loans_v2.pdf)
 - [Zaprite POS launch](https://x.com/willcole/status/1829235636114530653)
 - [Babylon PoS launch](https://x.com/babylonlabs_io/status/1826584639147848087)
- - [Fee spike](https://x.com/mononautical/status/1826604180251050388)
- - [Explainer](https://x.com/babylonlabs_io/status/1823315519417508314)
- - [LST collaboration with BoB](https://decrypt.co/247257/native-btc-staking-bitcoin-layer-2-networks-babylon)
+   - [Fee spike](https://x.com/mononautical/status/1826604180251050388)
+   - [Explainer](https://x.com/babylonlabs_io/status/1823315519417508314)
+   - [LST collaboration with BoB](https://decrypt.co/247257/native-btc-staking-bitcoin-layer-2-networks-babylon)
 - [Fractals mainnet launch](https://www.fractalbitcoin.io/updates/fractal-mainnet-launches-press-release)
   - Merge minded (and not)
   - Ledger size may reach 1.2TB/year
