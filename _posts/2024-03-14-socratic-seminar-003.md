@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 50"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/296945954/
+title: "Socratic 003"
+meetup: https://www.meetup.com/sabitdevs/events/302482066
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
