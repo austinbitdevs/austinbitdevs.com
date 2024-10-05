@@ -29,7 +29,8 @@ meetup: https://www.meetup.com/sabitdevs/events/303385365/
 - [Efficient tx grinding for OP_CAT covenants](https://delvingbitcoin.org/t/efficient-multi-input-transaction-grinding-for-op-cat-based-bitcoin-covenants/1080)
 - [$1M bounty for OP_CAT arguments](https://groups.google.com/g/bitcoindev/c/awBtvpXKBcw)
 - [Bitcoin Puzzle 66 solved](https://news.ycombinator.com/item?id=41547395)
-- [Layer2 Review by Peter Todd](https://petertodd.org/2024/covenant-dependent-layer-2-review) [The Fix](https://github.com/bitcoin/bitcoin/pull/30647)
+- [Layer2 Review by Peter Todd](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+  - [The Fix](https://github.com/bitcoin/bitcoin/pull/30647)
 - [Testnet4 consensus failure](https://github.com/bitcoin/bitcoin/issues/30786)
 - [10101 shutting down](https://10101.finance/blog/10101-is-shutting-down/)
   - First self-custodial trading platform based on DLCs, 1st WolfNYC cohort
@@ -54,3 +55,8 @@ meetup: https://www.meetup.com/sabitdevs/events/303385365/
 - [House Financial Services Committee session on DeFi](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409331)
 - [House Financial Services Committee session on SEC behavior](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409360)
 - [House Financial Services Committee session on SEC oversight](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=409374)
+
+# Presentations!
+
+- Un-hosing a Lightning Network boo-boo
+
