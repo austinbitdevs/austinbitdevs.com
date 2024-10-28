@@ -38,3 +38,6 @@ meetup: https://www.meetup.com/sabitdevs/events/303407810/
 - [Shielded CSV](https://mailing-list.bitcoindevs.xyz/bitcoindev/b0afc5f2-4dcc-469d-b952-03eeac6e7d1b@gmail.com/)
 - [LN Summit 2024](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
 - [Group Channel Opens](https://lightningnetwork.plus/posts/594) and [how they work](https://lightningnetwork.plus/posts/456)
+- Bitcoin PIPEs
+  - [Whitepaper](https://x.com/nemothenoone/status/1843382870901235907)
+  - [Explanatory thread](https://x.com/_weidai/status/1843526255045685253?s=46&t=OHVNt-4JbivH56CdK1W_Mw)
