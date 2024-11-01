@@ -12,7 +12,7 @@ meetup: https://www.meetup.com/sabitdevs/events/303407810/
 # Semi-Regular Installment of Bitcoin Trivia!
 
 - Bitcoin v28 includes significant mempool and policy enhancements, including v3 transactions with 1P1C TRUC package relay. What does TRUC mean?
-  <ol style="list-style-type: lower-alpha;">
+  <ol type="a" style="list-style-type: lower-alpha;">
     <li>Totally rad, unconditionally cool</li>
     <li>Total relay unattached child</li>
     <li>Topologically restricted until confirmation</li>
