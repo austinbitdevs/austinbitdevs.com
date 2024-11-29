@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 58"
-meetup: https://www.meetup.com/austin-bitcoin-developers/events/301717250/?eventOrigin=group_upcoming_events
+title: "Socratic 011"
+meetup: https://www.meetup.com/sabitdevs/events/303407861/
 ---
 
 # Announcements
