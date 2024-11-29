@@ -7,9 +7,7 @@ meetup: https://www.meetup.com/sabitdevs/events/303407861/
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -28,6 +26,7 @@ meetup: https://www.meetup.com/sabitdevs/events/303407861/
 - [Bitcoin Core Vuln](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
 - [Bitcoin Consensus Analysis Project (BCAP)](https://x.com/moneyball/status/1854585339119341796)
 - [Collider script](https://eprint.iacr.org/2024/1802.pdf)
+- [ECDSA deprecation](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)
 - [Post Quantum Sigs with GSR](https://x.com/n1ckler/status/1854552545084977320) - [Delving Post](https://delvingbitcoin.org/t/winternitz-one-time-signatures-contrasting-between-lisp-and-script/1255)
 - [DLC dev kit](https://bennyb.dev/blog/dlcdevkit)
 - [Free money](https://x.com/sanket1729/status/1851824134680170792)
