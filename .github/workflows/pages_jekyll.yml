@@ -51,7 +51,7 @@ jobs:
       - name: Copy stuff
         # Copies extra contents to './_site' directory
         run: |
-          copy -r _data _includes _layouts _posts _site
+          cp -r _data _includes _layouts _posts _site
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
