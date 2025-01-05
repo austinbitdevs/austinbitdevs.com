@@ -50,6 +50,9 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        # TWS - upload entire directory
+        with:
+          path: "."
 
   # Deployment job
   deploy:
