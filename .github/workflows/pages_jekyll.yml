@@ -48,14 +48,15 @@ jobs:
         env:
           JEKYLL_ENV: production
           #BUNDLE_PATH: vendor/bundle
-      - name: Copy stuff
-        # Copies extra contents to './_site' directory
-        run: |
-          cp -r _data _includes _layouts _posts _site
+      ## TWS - copy other files to './_site' directory
+      #- name: Copy stuff
+      #  run: |
+      #    cp -r _data _includes _layouts _posts _site
+      #    cp -r vendor _site
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-        # TWS - upload entire directory
+        ## TWS - upload entire directory
         #with:
         #  path: "."
 
