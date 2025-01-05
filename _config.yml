@@ -13,5 +13,5 @@ title: "San Antonio Bitcoin Developers"
 description: "San Antonio Bitcoin Developers is a Meetup devoted to the research and development of Bitcoin and cryptocurrency."
 
 # Leave out some files
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache', vendor]
 
