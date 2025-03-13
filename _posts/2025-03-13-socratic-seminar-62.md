@@ -20,7 +20,10 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304930330/
 
 - [Possible ESP32 Bluetooth Backdoors](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/), [Esspressif response](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 - [Btc++ Floripa Hackathon Projects](https://gist.github.com/supertestnet/9808060c7e03fd1001f17d242da5f30b)
+- [Strategic reserve](https://x.com/davidsacks47/status/1897802280738734236)
+- [Increased surveillance](https://x.com/emily_adamec/status/1900248200679772286)
 - [rust-joinstr](https://rust-joinstr.github.io/)
+- [DLC Devkit and Beyond](https://bennyb.dev/blog/dlcdevkit-beyond/)
 - [Private block template marketplace for dealing with MEVil](https://delvingbitcoin.org/t/best-worst-case-mevil-response/1465)
 - [Antpool templating bug](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
 - [Covenants Wiki updates](https://groups.google.com/u/0/g/bitcoindev/c/kd8g8V1NVOY)
