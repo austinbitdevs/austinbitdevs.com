@@ -14,7 +14,7 @@ meetup: https://www.meetup.com/bitcoin-commons-austin/events/304930330/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- TBD
+- [trivia](https://x.com/base58btc/status/1900301854744956949)
 
 # Topics
 
