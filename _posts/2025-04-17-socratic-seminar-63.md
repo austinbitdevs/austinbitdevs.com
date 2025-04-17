@@ -18,6 +18,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930332/
 
 # Topics
 
+- [Bitcoin dev mailing list banned??](https://x.com/jarolrod/status/1907480779078221842?s=46)
 - [Against Allowing Quantum Recovery of Bitcoin](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
 - [Quantum Cat Entangling w/ Package Relay](https://x.com/rot13maxi/status/1902499016535110139?s=46)
 - [Bolt 12 support in fedimint](https://github.com/fedimint/fedimint/pull/7054)
@@ -29,13 +30,12 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930332/
 - CTV makes layer 2s more efficient
   - [BitVM bridges](https://delvingbitcoin.org/t/how-ctv-csfs-improves-bitvm-bridges/1591)
   - [Ark](https://delvingbitcoin.org/t/evolving-the-ark-protocol-using-ctv-and-csfs/1602)
+- [Standard Unstructured Annex](https://groups.google.com/g/bitcoindev/c/Q5j2Kb6XeHI)
 - Is mining too centralized?
   - [Foundry mines 10 blocks in a row](https://x.com/skot9000/status/1906341206222610435)
   - [How many blocks is safe?](https://x.com/LukeDashjr/status/1906462165327905215)
   - [38 blocks?](https://x.com/LukeDashjr/status/1888322550884970698)
 - [Bitcoin dev project's intro to payjoin](https://x.com/Bitcoin_Devs/status/1906006922396119493)
-- [Bitcoin dev mailing list banned??](https://x.com/jarolrod/status/1907480779078221842?s=46)
 - [Taplocks](https://x.com/rot13maxi/status/1909252898170564621)
   - [Full technical writeup](https://github.com/taproot-wizards/taplocks/blob/main/README.md)
 - [SwiftSync](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
-- [Standard Unstructured Annex](https://groups.google.com/g/bitcoindev/c/Q5j2Kb6XeHI)
