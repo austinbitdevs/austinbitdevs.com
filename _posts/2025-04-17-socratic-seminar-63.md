@@ -24,6 +24,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930332/
 - [Bolt 12 support in fedimint](https://github.com/fedimint/fedimint/pull/7054)
 - [Ark on signet](https://x.com/2ndbtc/status/1902400806659514562)
 - [Ark ping pong in the wild](https://njump.me/nevent1qgszrqlfgavys8g0zf8mmy79dn92ghn723wwawx49py0nqjn7jtmjagqyz8gt4msjrxsxf5v6ju2enz96cef3drthw4u5822h6w6q7087l9062jpaag)
+- [Relax OP_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
 - [Great Consensus Cleanup BIP Revived](https://github.com/bitcoin/bips/pull/1800)
   - [Announcement](https://x.com/darosior/status/1904947392744485062)
   - [BIP-0054 text](https://github.com/bitcoin/bips/blob/2e33c1aee739be00540d390778a2e8507a1f60e3/bip-0054.md)
