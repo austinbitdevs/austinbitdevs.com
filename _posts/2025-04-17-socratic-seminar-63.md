@@ -22,6 +22,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930332/
 - [Against Allowing Quantum Recovery of Bitcoin](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
 - [Quantum Cat Entangling w/ Package Relay](https://x.com/rot13maxi/status/1902499016535110139?s=46)
 - [Bolt 12 support in fedimint](https://github.com/fedimint/fedimint/pull/7054)
+- [DahLIAS](https://eprint.iacr.org/2025/692.pdf)
 - [Ark on signet](https://x.com/2ndbtc/status/1902400806659514562)
 - [Ark ping pong in the wild](https://njump.me/nevent1qgszrqlfgavys8g0zf8mmy79dn92ghn723wwawx49py0nqjn7jtmjagqyz8gt4msjrxsxf5v6ju2enz96cef3drthw4u5822h6w6q7087l9062jpaag)
 - [Relax OP_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
