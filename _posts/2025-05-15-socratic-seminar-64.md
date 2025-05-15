@@ -17,7 +17,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- [trivia](https://x.com/base58btc/status/)
+- [trivia](https://x.com/base58btc/status/1923107029956141532)
 
 # Topics
 
@@ -89,3 +89,4 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
   - [Hop-Return, new op_return based metaprotocol](https://gist.github.com/mononaut/3d08be8a5c00a5e6c9a5641daf6b1338)
   - [Runtime BTC Knots policy changes](https://devpost.com/software/runtime-btc-knots-policy-changes)
   - [Circumventing filters](https://x.com/ottosch_/status/1922767643771126018)
+  - [4kb of data in the control block](https://x.com/rot13maxi/status/1923087628594794800)
