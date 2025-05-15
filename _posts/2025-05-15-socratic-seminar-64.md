@@ -60,7 +60,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
 - Research
 - [Round-Efficient Adaptively Secure Threshold Signatures with Rewinding](https://eprint.iacr.org/2025/638.pdf)
 - [Thunderbolt: A Formally Verified Protocol for Off-Chain Bitcoin Transfers](https://eprint.iacr.org/2025/709.pdf)
-- [ECDSA Cracking MEthods](https://eprint.iacr.org/2025/654.pdf)
+- [ECDSA Cracking Methods](https://eprint.iacr.org/2025/654.pdf)
 
 - Mining
 - [Parasite Pool](https://x.com/kram_btc/status/1921278516110459270)
@@ -70,6 +70,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
 - Filter Wars ("Core Dev"s versus "Pleb Podcasters" LARP)
   - [Relax OP_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
   - [PR closed - Remove arbitrary limits on OP_Return (datacarrier) outputs #32359](https://github.com/bitcoin/bitcoin/pull/32359)
+  - [Rebuttal arguments against lifting filter limits for OP_RETURN](https://delvingbitcoin.org/t/addressing-community-concerns-and-objections-regarding-my-recent-proposal-to-relax-bitcoin-cores-standardness-limits-on-op-return-outputs/1697)
 - For
   - [Pieter Wuille](https://mailing-list.bitcoindevs.xyz/bitcoindev/QMywWcEgJgWmiQzASR17Dt42oLGgG-t3bkf0vzGemDVNVnvVaD64eM34nOQHlBLv8nDmeBEyTXvBUkM2hZEfjwMTrzzoLl1_62MYPz8ZThs=@wuille.net/)
 - Agsinst
