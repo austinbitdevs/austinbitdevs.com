@@ -21,27 +21,26 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
 
 # Topics
 
-- Urgent
-- [NBitcoin Crash](https://x.com/orangesurfbtc/status/1922805111522206100)
+### Urgent
+- [NBitcoin Crash](https://x.com/orangesurfbtc/status/1922805111522206100) and [fix](https://github.com/MetacoSA/NBitcoin/pull/1269)
+  - [Miners rolling nonstandard tx version numbers](https://x.com/orangesurfbtc/status/1922805111522206100)
 - [NBX Explorer Nix-bitcoin Fix](https://x.com/afilini/status/1922972344579997760)
 - [Coinbase PII Breach & $20M Ransom](https://x.com/cointelegraph/status/1922977880314654962)
 
-
-
-- Stats
+### Stats
 - [Mining Centralization Index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/)
 - [Cumulative OP_RETURN Output Values](https://mainnet.observer/charts/output-opreturn-amount/)
 - [OP_Return Update](https://x.com/jimmysong/status/1922319485941530961)
 - [LN Wallet Marketshare in Japan](https://x.com/DiamondHandsLN/status/1922642890271916443/photo/1)
 - [Mempool.Space Lightning](https://mempool.space/lightning)
-- Knots node % growth
+
+### Knots node % growth
 - [@freeonlineuser](https://x.com/freeonlineuser/status/1922070187865493599)
 - [@SuperTestnet](https://x.com/supertestnet/status/1920352131791396930)
 - [@sr_gi](https://x.com/sr_gi/status/1920991638215709143)
 - [@lopp](https://x.com/lopp/status/1921236512210899178)
 
-
-
+### Misc.
 - [Peach GroupHug](https://x.com/peachbitcoin/status/1921147023262146785)
 - [Musig2 module merged in rust-bitcoin rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1/pull/716)
 - [BIP30 consensus failure vulnerability](https://groups.google.com/g/bitcoindev/c/aqHRfa0UWFo)
@@ -57,27 +56,27 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
 - [64-bit arithmetic in Script](https://groups.google.com/g/bitcoindev/c/j1zEky-3QEE)
 - [Legacy wallet removal](https://github.com/bitcoin/bitcoin/pull/28710)
 
-- Research
+### Research
 - [Round-Efficient Adaptively Secure Threshold Signatures with Rewinding](https://eprint.iacr.org/2025/638.pdf)
 - [Thunderbolt: A Formally Verified Protocol for Off-Chain Bitcoin Transfers](https://eprint.iacr.org/2025/709.pdf)
 - [ECDSA Cracking Methods](https://eprint.iacr.org/2025/654.pdf)
 
-- Mining
+### Mining
 - [Parasite Pool](https://x.com/kram_btc/status/1921278516110459270)
 
-
-
-- Filter Wars ("Core Dev"s versus "Pleb Podcasters" LARP)
+### Filter Wars ("Core Dev"s versus "Pleb Podcasters" LARP)
   - [Relax OP_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
   - [PR closed - Remove arbitrary limits on OP_Return (datacarrier) outputs #32359](https://github.com/bitcoin/bitcoin/pull/32359)
   - [Rebuttal arguments against lifting filter limits for OP_RETURN](https://delvingbitcoin.org/t/addressing-community-concerns-and-objections-regarding-my-recent-proposal-to-relax-bitcoin-cores-standardness-limits-on-op-return-outputs/1697)
-- For
+
+#### For
   - [Pieter Wuille](https://mailing-list.bitcoindevs.xyz/bitcoindev/QMywWcEgJgWmiQzASR17Dt42oLGgG-t3bkf0vzGemDVNVnvVaD64eM34nOQHlBLv8nDmeBEyTXvBUkM2hZEfjwMTrzzoLl1_62MYPz8ZThs=@wuille.net/)
-- Agsinst
+
+#### Against
   - [Jason Hughes](https://mailing-list.bitcoindevs.xyz/bitcoindev/f4f6831a-d6b8-4f32-8a4e-c0669cc0a7b8n@googlegroups.com/)
-- Recent Developments
+
+#### Recent Developments
   - [Policy](https://antoinep.com/posts/relay_policy_drama/)
-  - [Miners rolling nonstandard tx version numbers](https://x.com/orangesurfbtc/status/1922805111522206100)
   - [F2Pool quietly dropped their minimum relay fee](https://x.com/mononautical/status/1919090261654638954)
   - [Non standard txs mined since last halving](https://x.com/mononautical/status/1918736597899428223)
   - [Brc-20 in op_return]( https://x.com/mononautical/status/1919758548310823213)
