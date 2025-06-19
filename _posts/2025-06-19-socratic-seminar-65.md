@@ -34,3 +34,4 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306345995/?recId=d1e75
 - [Quantum secure signature schemes with OP_CAT](https://groups.google.com/g/bitcoindev/c/Zx_NMqZH65Y)
 - [Fee exhaustion attack](https://groups.google.com/g/bitcoindev/c/-UCeC6Ulvls)
 - [BitVM 3](https://x.com/robin_linus/status/1934243097715597591)
+- [Arkade](https://arkadeos.com/vision)
