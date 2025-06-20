@@ -19,6 +19,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306345995/?recId=d1e75
 
 # Topics
 
+- [Texas SBR](https://bitcoinist.com/texas-bitcoin-reserve-law-triggers-sunday/)
 - [UTXO set report](https://x.com/OrangeSurfBTC/status/1924604141977956745)
 - [Making legacy sigops non-standard](https://github.com/bitcoin/bitcoin/pull/32521)
 - [Encrypting descriptors](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt/1750)
