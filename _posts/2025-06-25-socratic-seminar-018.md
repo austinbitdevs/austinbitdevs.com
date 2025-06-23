@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 018"
-meetup: https://www.meetup.com/sabitdevs/events/303407861/
+meetup: https://www.meetup.com/sabitdevs/events/308602235/
 ---
 
 # Announcements
