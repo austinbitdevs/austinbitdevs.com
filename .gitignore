@@ -14,6 +14,7 @@ _cache
 _site/
 ehthumbs.db
 vendor
+.vscode/
 
 # To prevent accidental push of translations from
 # Transifex.
