@@ -19,21 +19,30 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306346010/
 
 # Topics
 
-- [New Caravan feature](https://x.com/puckberley/status/1942631305373495795)
+- Fun and games in block explorers
+  - [Sending to bad addresses](https://x.com/mononautical/status/1943941834520277336)
+  - [RBF battles for low entropy addresses](https://x.com/mononautical/status/1944599986303566258)
+  - [2 hours to mine 1 block??](https://primal.net/e/nevent1qqsgpwnyt2c7ctla7fstlz4ptm04jm36fll778v6lahvu7uw52z7p0gvc90xm)
+  - [26% hashrate mining sub-1sat/vbyte txs](https://x.com/mononautical/status/1944942585384198259)
+  - [Sub-1sat summer driving pool decentralization?](https://x.com/mononautical/status/1944934985237942662)
 - [Separating onion message relay from HTLC relay](https://delvingbitcoin.org/t/reimagining-onion-messages-as-an-overlay-layer/1799)
+- [Tx Waste Analysis in Caravan](https://x.com/puckberley/status/1942631305373495795)
 - [Compressed descriptors](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction/1804)
+- [Coinbase the best privacy L2?](https://x.com/SaniExp/status/1945584984716193928)
 - [Improve TxOrphanage denial of service bounds](https://bitcoincore.reviews/31829)
 - [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
 - [Frostsnap preoorders](https://x.com/frostsnaptech/status/1939519321862291621)
 - [BitChat](https://github.com/permissionlesstech/bitchat/blob/main/WHITEPAPER.md)
-- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
-- [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
+- Quantum
+  - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
+  - [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
 - [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4)
 - BitVM abridged
   - [BitVM3](https://blockspace.media/insight/why-you-might-want-to-pay-attention-to-bitvm-again/)
   - [Broken scheme](https://hackmd.io/@liameagen/bitvm3-garbling-note)
   - [BitVM3 S](https://bitvm.org/bitvm3.pdf)
   - [Glock](https://www.alpenlabs.io/blog/glock-verification-on-bitcoin)
+- [BIP353 hardware bounty](https://x.com/TheBlueMatt/status/1945603864666743240)
 - [Stratum v2 STARK proof demo](https://github.com/starkware-bitcoin/stratum)
 - [Understanding and Mitigating a OP_CTV Footgun: The Unsatisfiable UTXO](https://delvingbitcoin.org/t/understanding-and-mitigating-a-op-ctv-footgun-the-unsatisfiable-utxo/1809/1)
 - [Where does the 33.33% threshold for selfish mining come from?](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757/1)
