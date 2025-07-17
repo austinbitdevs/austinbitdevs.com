@@ -11,7 +11,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306346010/
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Ego Death Capital closes $100M fund for bitcoin companies](https://www.axios.com/2025/07/08/ego-death-100-million-bitcoin-companies)
-
+- [Btc++ Riga Agenda Live](https://btcplusplus.dev/conf/riga)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
