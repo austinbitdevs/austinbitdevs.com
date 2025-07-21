@@ -1,19 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 64"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/304930333/
+title: "Socratic 017"
+meetup: https://www.meetup.com/sabitdevs/events/303407861/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Bitcoin 2025](https://b.tc/conference/2025)
-- [Bitcoin Designathon](https://event.bitcoin.design/)
-- [BTC in D.C.](https://btcindc.com/)
-
 
 # Semi-Regular Installment of Bitcoin Trivia!
 

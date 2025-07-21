@@ -1,20 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 61"
-meetup: https://www.meetup.com/bitcoin-commons-austin/events/304154305/
+title: "Socratic 014"
+meetup: https://www.meetup.com/sabitdevs/events/303407861/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Final Programming Bitcoin workshop](https://x.com/jimmysong/status/1891989046936649915)
-- [Bitcoin takeover 2025](https://bitcointakeover.org/)
-- [btc++ SXSW Turbo Hackathon](https://ykdl62lcpgz.typeform.com/turbohack)
-- [bitcoin++ atx25 passes available](https://btcplusplus.dev/conf/atx25)
-- [Full slate of bitcoin++ 2025 events](https://btcpp.dev/)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 

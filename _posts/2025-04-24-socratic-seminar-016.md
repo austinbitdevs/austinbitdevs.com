@@ -1,16 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 63"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/304930332/
+title: "Socratic 016"
+meetup: https://www.meetup.com/sabitdevs/events/303407861/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [bitcoin++ atx25 passes available](https://btcplusplus.dev/conf/atx25)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
