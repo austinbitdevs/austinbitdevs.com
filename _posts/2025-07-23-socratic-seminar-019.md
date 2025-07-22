@@ -1,17 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 66"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306346010/
+title: "Socratic 19"
+meetup: https://www.meetup.com/sabitdevs/events/308676006/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Ego Death Capital closes $100M fund for bitcoin companies](https://www.axios.com/2025/07/08/ego-death-100-million-bitcoin-companies)
-- [Btc++ Riga Agenda Live](https://btcplusplus.dev/conf/riga)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -36,6 +32,9 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306346010/
 - Quantum
   - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
   - [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
+  - [Presidio Quantum Bitcoin Conference](https://www.youtube.com/@PresidioBitcoin)
+  - [Rijndael's takeaways](https://x.com/rot13maxi/status/1946735932394160490)
+  - [Shinobi's takeaways](https://bitcoinmagazine.com/technical/the-quantum-bitcoin-summit-a-grounded-look-at-the-issues)
 - [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4)
 - BitVM abridged
   - [BitVM3](https://blockspace.media/insight/why-you-might-want-to-pay-attention-to-bitvm-again/)
