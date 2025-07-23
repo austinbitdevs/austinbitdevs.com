@@ -11,7 +11,7 @@ meetup: https://www.meetup.com/sabitdevs/events/308676006/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- [trivia](https://x.com/base58btc/status/)
+- [trivia](https://x.com/base58btc/status/1945548050170056809)
 
 # Topics
 
