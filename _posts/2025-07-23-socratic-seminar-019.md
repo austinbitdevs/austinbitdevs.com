@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/sabitdevs/events/308676006/
 - [Jack Dorsey's Messaging App Bitchat](https://mashable.com/article/jack-dorsey-messaging-app-bitchat)
 - [Bitcoin Treasury Company Rumble Crypto Wallet Moonpay](https://decrypt.co/329542/bitcoin-treasury-company-rumble-crypto-wallet-moonpay)
 - [Jestopher_BTC - Rails update](https://x.com/Jestopher_BTC/status/1944554624989700405)
+- [Ledger PSA](https://x.com/lopp/status/1947695634934546756)
 - Fun and games in block explorers
   - [Sending to bad addresses](https://x.com/mononautical/status/1943941834520277336)
   - [RBF battles for low entropy addresses](https://x.com/mononautical/status/1944599986303566258)
