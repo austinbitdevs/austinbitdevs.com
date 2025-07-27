@@ -23,7 +23,9 @@ meetup: https://www.meetup.com/sabitdevs/events/308676006/
 - [Securing a $100M Lightning Node](https://acinq.co/blog/securing-a-100M-lightning-node)
 - [Wallet of Satoshi Partners with Spark to Offer Self-Custodial Bitcoin Lightning Experience](https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience)
 - [Trustodial: An Ontological Dilemma](https://bitcoinmagazine.com/technical/trustodial-an-ontological-dilemma)
-- [Jack Dorsey's Messaging App Bitchat](https://mashable.com/article/jack-dorsey-messaging-app-bitchat)
+- Bitchat
+  - [Jack Dorsey's Messaging App Bitchat](https://mashable.com/article/jack-dorsey-messaging-app-bitchat)
+  - [BitChat](https://github.com/permissionlesstech/bitchat/blob/main/WHITEPAPER.md)
 - [Bitcoin Treasury Company Rumble Crypto Wallet Moonpay](https://decrypt.co/329542/bitcoin-treasury-company-rumble-crypto-wallet-moonpay)
 - [Jestopher_BTC - Rails update](https://x.com/Jestopher_BTC/status/1944554624989700405)
 - [Ledger PSA](https://x.com/lopp/status/1947695634934546756)
@@ -40,7 +42,6 @@ meetup: https://www.meetup.com/sabitdevs/events/308676006/
 - [Improve TxOrphanage denial of service bounds](https://bitcoincore.reviews/31829)
 - [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
 - [Frostsnap preoorders](https://x.com/frostsnaptech/status/1939519321862291621)
-- [BitChat](https://github.com/permissionlesstech/bitchat/blob/main/WHITEPAPER.md)
 - Quantum
   - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
   - [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
