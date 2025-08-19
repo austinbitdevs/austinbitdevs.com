@@ -24,9 +24,10 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
   - [SPHICS+](https://insider.btcpp.dev/p/sphincs)
   - [Taproot script spends are quantum secure](https://groups.google.com/g/bitcoindev/c/ydE5u5C0xVc)
 - Simplicity on Liquid Mainnet
+- [Writing simplicity programs](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
+- [Glock](https://x.com/AlpenLabs/status/1957808842558885902)
 - [Peer observer](https://x.com/0xB10C/status/1950216578194170276)
 - [Utreexo BIPs](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
-- [Writing simplicity programs](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
 - [Sub 1 sat/vbyte in Core](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [LND gossip vulnerability](https://delvingbitcoin.org/t/disclosure-lnd-gossip-timestamp-filter-dos/1859)
