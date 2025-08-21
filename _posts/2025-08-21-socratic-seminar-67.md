@@ -20,6 +20,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 - [Harbor release!](https://harbor.cash)
 - [Eltor release!](https://github.com/el-tor/eltord)
 - [Google removes and re-adds non-custodial wallets from Play Store](https://x.com/NewsFromGoogle/status/1955741506440192463)
+- [Monero 51% attack](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
 - [Quantum Bitcoin Summit](https://x.com/PresidioBitcoin/status/1950333816004104319)
   - [SPHICS+](https://insider.btcpp.dev/p/sphincs)
   - [Taproot script spends are quantum secure](https://groups.google.com/g/bitcoindev/c/ydE5u5C0xVc)
@@ -35,4 +36,3 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 - [LND gossip vulnerability](https://delvingbitcoin.org/t/disclosure-lnd-gossip-timestamp-filter-dos/1859)
 - [Emulating softforks with TEE](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
 - [Ark working in prod](https://x.com/ArkLabsHQ/status/1955617205967782203)
-- [Monero 51% attack](https://finance.yahoo.com/news/monero-51-attack-problem-inside-160503776.html)
