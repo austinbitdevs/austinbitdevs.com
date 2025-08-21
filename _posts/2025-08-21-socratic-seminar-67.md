@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 - [Utreexo BIPs](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
 - [Sub 1 sat/vbyte in Core](https://github.com/bitcoin/bitcoin/pull/33106)
 - [don't punish peers for consensus-invalid txs](https://github.com/bitcoin/bitcoin/pull/33050)
+- [Version 3 txs taking off](https://x.com/mononautical/status/1951856672038662524)
 - [Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [LND gossip vulnerability](https://delvingbitcoin.org/t/disclosure-lnd-gossip-timestamp-filter-dos/1859)
 - [Emulating softforks with TEE](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
