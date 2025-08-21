@@ -23,7 +23,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 - [Quantum Bitcoin Summit](https://x.com/PresidioBitcoin/status/1950333816004104319)
   - [SPHICS+](https://insider.btcpp.dev/p/sphincs)
   - [Taproot script spends are quantum secure](https://groups.google.com/g/bitcoindev/c/ydE5u5C0xVc)
-- Simplicity on Liquid Mainnet
+- [Simplicity on Liquid Mainnet](https://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/)
 - [Writing simplicity programs](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
 - [Glock](https://x.com/AlpenLabs/status/1957808842558885902)
 - [Peer observer](https://x.com/0xB10C/status/1950216578194170276)
