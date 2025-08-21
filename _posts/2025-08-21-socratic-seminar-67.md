@@ -13,7 +13,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- [trivia](todo)
+- [trivia](https://x.com/base58btc/status/1958667406861377871)
 
 # Topics
 
@@ -29,5 +29,9 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712632/
 - [Peer observer](https://x.com/0xB10C/status/1950216578194170276)
 - [Utreexo BIPs](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
 - [Sub 1 sat/vbyte in Core](https://github.com/bitcoin/bitcoin/pull/33106)
+- [don't punish peers for consensus-invalid txs](https://github.com/bitcoin/bitcoin/pull/33050)
 - [Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [LND gossip vulnerability](https://delvingbitcoin.org/t/disclosure-lnd-gossip-timestamp-filter-dos/1859)
+- [Emulating softforks with TEE](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
+- [Ark working in prod](https://x.com/ArkLabsHQ/status/1955617205967782203)
+- [Monero 51% attack](https://finance.yahoo.com/news/monero-51-attack-problem-inside-160503776.html)
