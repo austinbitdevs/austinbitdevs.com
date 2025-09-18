@@ -10,7 +10,6 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-
 - [Early Riders - Stables](https://www.earlyriders.com/stables)
 
 # Semi-Regular Installment of Bitcoin Trivia!
