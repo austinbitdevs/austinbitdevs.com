@@ -35,5 +35,6 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - [Ordinals impact on node runners](https://x.com/BitMEXResearch/status/1965190903762395536)
 - [Frigate Release](https://github.com/sparrowwallet/frigate)
 - [Crypto Workbook](https://x.com/n1ckler/status/1965431204326580530)
+- [Zero fee commitment txs in LDK](https://github.com/lightningdevkit/rust-lightning/pull/4053)
 - [Paypal bitcoin support](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 - [Wallet encryption BIP](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
