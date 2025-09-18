@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - [Block Reconstruction rates go up](https://x.com/glozow/status/1968310311221657809)
 - [Min relay fee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Signet Vulnerability](https://github.com/bitcoin/bitcoin/issues/33266)
+- [Mutinynet upgrade](https://x.com/benthecarman/status/1968794533291794509)
 - [Spark & Ark are channel factories](https://bitcoinmagazine.com/print/ark-and-spark-the-channel-factories-print)
 - [lightcoin on covenants](https://lightco.in/2025/09/12/covenants/)
 - [Frost + BDK](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY)
