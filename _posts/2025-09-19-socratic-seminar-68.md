@@ -11,6 +11,8 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
+- [Early Riders - Stables](https://www.earlyriders.com/stables)
+
 # Semi-Regular Installment of Bitcoin Trivia!
 
 - [trivia](todo)
@@ -19,6 +21,9 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 
 - [NPM supply chain attack](https://x.com/P3b7_/status/1965094840959410230)
 - [AI Malware](https://x.com/InsiderPhD/status/1960680273168711807)
+- [A knotty irony](https://insider.btcpp.dev/p/a-knotty-irony)
+- [Block Reconstruction rates go up](https://x.com/glozow/status/1968310311221657809)
+- [Min relay fee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Signet Vulnerability](https://github.com/bitcoin/bitcoin/issues/33266)
 - [Frost + BDK](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY)
 - [BGP Eclipse attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
