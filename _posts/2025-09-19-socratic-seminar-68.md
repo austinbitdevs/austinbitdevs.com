@@ -15,7 +15,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- [trivia](todo)
+- [trivia](https://x.com/base58btc/status/1968793196214755617)
 
 # Topics
 
