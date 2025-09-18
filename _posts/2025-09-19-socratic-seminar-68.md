@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - [Min relay fee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Signet Vulnerability](https://github.com/bitcoin/bitcoin/issues/33266)
 - [Spark & Ark are channel factories](https://bitcoinmagazine.com/print/ark-and-spark-the-channel-factories-print)
+- [lightcoin on covenants](https://lightco.in/2025/09/12/covenants/)
 - [Frost + BDK](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY)
 - [BGP Eclipse attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 - [Misbehaving nodes](https://antoinep.com/posts/misbehaving_nodes/)
