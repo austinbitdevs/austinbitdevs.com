@@ -13,15 +13,18 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401055/
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-- [trivia](https://x.com/base58btc/status/)
+- [trivia](https://x.com/base58btc/status/1978878417865990231)
 
 # Topics
 
+- [Bitcoin for signal](https://bitcoinforsignal.com/)
+- [Bisq on mobile](https://x.com/bisq_network/status/1977027198717771941)
 - [Bitcoin Core 30.0 released](https://bitcoincore.org/en/releases/30.0/)
 - [Receive & spend MuSig2 aggregate key inputs](https://github.com/bitcoin/bitcoin/pull/29675)
 - [Bitcoin Knots v29.2 released](https://github.com/bitcoinknots/bitcoin/releases/tag/v29.2.knots20251010)
 - [Dashjr DM leak](https://www.therage.co/leaked-luke-dashjr-bitcoin-hardfork/)
 - [lnd v0.20.0-beta.rc1](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.0-beta.rc1)
+- [BitVM3 optimizations](https://x.com/robin_linus/status/1974231480944447738)
 - [GSR BIPs](https://groups.google.com/g/bitcoindev/c/GisTcPb8Jco)
 - [Embedding gifs without op_return](https://x.com/mononautical/status/1974493719719268610)
 - [Canadian police seize funds, announce via OP_RETURN](https://mempool.space/tx/e8a6c482503387d7215ce553c2b6157a2f6af574da2904c9bfba887f6ce9e646?mode=details)
