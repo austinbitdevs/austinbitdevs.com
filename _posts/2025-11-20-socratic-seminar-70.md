@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 69"
+title: "Socratic 70"
 meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin=group_upcoming_events
 ---
 
