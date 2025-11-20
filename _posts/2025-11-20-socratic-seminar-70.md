@@ -18,6 +18,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 # Topics
 
 - [Cash App Updates](https://cash.app/press/cash-unlocks-bitcoin-everyday-stablecoins)
+- [v30 performance improvements](https://x.com/L0RINC/status/1968392472717033927)
 - [Bitcoin Core Roadmap?](https://x.com/bitschmidty/status/1986100498567499789)
 - [BIP444 Draft Published](https://github.com/bitcoin/bips/pull/2017)
 - [BIP444-compliant BIP text published on blockchain](https://x.com/mononautical/status/1982601377923891530)
