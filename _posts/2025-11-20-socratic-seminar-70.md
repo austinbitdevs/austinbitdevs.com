@@ -31,5 +31,6 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 - [Bitcoin Core Roadmap?](https://x.com/bitschmidty/status/1986100498567499789)
 - [Golden: Non-interactive DKG protocol](https://x.com/chelseakomlo/status/1983173462903665107)
 - [CPU DoS from unconfirmed transaction processing](https://bitcoincore.org/en/2025/10/24/disclose-cve-2025-46598/)
+- [Bindex](https://github.com/romanz/bindex-rs)
 - [LNHANCE?](https://groups.google.com/g/bitcoindev/c/AlMqLbmzxNA)
 - [Penlock](https://groups.google.com/g/bitcoindev/c/8LkdxVc_nI0)
