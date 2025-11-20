@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 - [BIP444 Draft Published](https://github.com/bitcoin/bips/pull/2017)
 - [BIP444-compliant BIP text published on blockchain](https://x.com/mononautical/status/1982601377923891530)
 - [Bitcoin Core security audit](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
+- [Zero Fee Commitment Txs interop](https://github.com/lightning/bolts/pull/1228#issuecomment-3547979321)
 - [Compact block relay with extra pool](https://uncensoredtech.substack.com/p/compact-block-relay-with-extra-pool) and [related mailing list post](https://groups.google.com/g/bitcoindev/c/sgX8PtrD1fs)
 - [BIP 3 Activation](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc), [BIP text](https://github.com/bitcoin/bips/blob/master/bip-0003.md#updates-to-existing-bips-should-this-bip-be-activated) and [mailing list discussion](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc)
 - [Coldcard Miniscript updates](https://x.com/COLDCARDwallet/status/1991572009025675628)
