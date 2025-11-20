@@ -18,6 +18,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 # Topics
 
 - [Cash App Updates](https://cash.app/press/cash-unlocks-bitcoin-everyday-stablecoins)
+- [Bitcoin Core Roadmap?](https://x.com/bitschmidty/status/1986100498567499789)
 - [BIP444 Draft Published](https://github.com/bitcoin/bips/pull/2017)
 - [BIP444-compliant BIP text published on blockchain](https://x.com/mononautical/status/1982601377923891530)
 - [Bitcoin Core security audit](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
@@ -28,7 +29,6 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 - [Chain delegation BIP](https://github.com/bitcoin/bips/pull/2004)
 - [Taproot Swaps](https://blog.boltz.exchange/p/introducing-taproot-swaps-putting)
 - [OP_CIV Post-Quantum Sig Agg](https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I)
-- [Bitcoin Core Roadmap?](https://x.com/bitschmidty/status/1986100498567499789)
 - [Golden: Non-interactive DKG protocol](https://x.com/chelseakomlo/status/1983173462903665107)
 - [CPU DoS from unconfirmed transaction processing](https://bitcoincore.org/en/2025/10/24/disclose-cve-2025-46598/)
 - [Bindex](https://github.com/romanz/bindex-rs)
