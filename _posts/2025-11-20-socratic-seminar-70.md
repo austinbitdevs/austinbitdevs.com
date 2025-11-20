@@ -20,6 +20,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401057/?eventOrigin
 - [Cash App Updates](https://cash.app/press/cash-unlocks-bitcoin-everyday-stablecoins)
 - [BIP444 Draft Published](https://github.com/bitcoin/bips/pull/2017)
 - [BIP444-compliant BIP text published on blockchain](https://x.com/mononautical/status/1982601377923891530)
+- [Bitcoin Core security audit](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
 - [Compact block relay with extra pool](https://uncensoredtech.substack.com/p/compact-block-relay-with-extra-pool) and [related mailing list post](https://groups.google.com/g/bitcoindev/c/sgX8PtrD1fs)
 - [BIP 3 Activation](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc)
 - [Chain delegation BIP](https://github.com/bitcoin/bips/pull/2004)
