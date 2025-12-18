@@ -16,6 +16,9 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401058/?eventOrigin
 
 What bitcoin holiday was inaugurated in 12 years ago on this day?
 
+And the base58 sponsored [trivia](https://x.com/base58school/status/2001785069997097368?s=20)
+
+
 # Topics
 
 ## Vulnerabilities
