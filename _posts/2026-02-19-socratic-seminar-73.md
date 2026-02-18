@@ -28,7 +28,7 @@ Base58 sponsored [trivia](https://x.com/base58school/status/)
 - [$1,000,000 lightning transaction](https://x.com/iBobbyShell/status/2019407415566037129)
 - [L402 Agentic Payments](https://lightning.engineering/posts/2026-02-11-ln-agent-tools/)
 - [Hourglass V2 Update](https://groups.google.com/g/bitcoindev/c/0E1UyyQIUA0)
-- [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A
+- [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
 - [BIP Proposal-Output Script Descriptor Annotations](https://groups.google.com/g/bitcoindev/c/ozjr1lF3Rkc)           
 - [Silent Payments notifications via Nostr](https://delvingbitcoin.org/t/silent-payments-notifications-via-nostr/2203)
 - [BLISK: Boolean circuit Logic Integrated into the Single Key](https://delvingbitcoin.org/t/blisk-boolean-circuit-logic-integrated-into-the-single-key/2217)                                                    
