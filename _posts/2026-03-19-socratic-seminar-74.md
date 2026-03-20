@@ -20,9 +20,8 @@ Base58 sponsored [trivia](https://x.com/base58school/status/2034773043919069532)
 # Topics
 
 - [Bitcoin++ Exploits Edition](https://loot.fund/hackathons/bitcoin-exploits-edition/applications)
-
+- [Bitcoin knowledge base](https://bitcoinknowledge.dev/)
 - [Allow recovery of MtGox stolen funds](https://github.com/bitcoin/bitcoin/pull/34695)
-
 - [John Cantrell back and working on MDK-Cloudflare](https://x.com/johncantrell97/status/2033942088983708156)
 - [Stripe's L402 competitor](https://x.com/tempo/status/2034253707303338264)
 - [Cantrell on MPP](https://x.com/johncantrell97/status/2034377639079600242)
