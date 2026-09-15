@@ -3,4 +3,4 @@ tagline: 'Austin Bitcoin Developers is a meetup devoted to the research and deve
 
 menu:
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Austin-Bitcoin-Developers/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/austin-computer-club/events/316490684/?eventOrigin=group_upcoming_events', external: true}
