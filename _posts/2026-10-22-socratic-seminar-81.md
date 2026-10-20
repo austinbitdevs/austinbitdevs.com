@@ -22,7 +22,7 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [BIP Draft - unspendable internal keys](https://github.com/bitryonix/bips/blob/bip-xxxx-unspendable-internal-keys/bip-xxxx-unspendable-internal-keys.mediawiki) - [Discussion](https://groups.google.com/g/bitcoindev/c/se3TkNnbno4)
 
 # Releases
-- [LayerTree](https://layertree.tech/) https://stacker.news/items/1596095/r/Scoresby
+- [LayerTree](https://layertree.tech/) - [Discussion](https://stacker.news/items/1596095/r/Scoresby)
 - [Zark](https://hackmd.io/@januszgrze/HJlHensozl) - [Github repo](https://github.com/zerosats/zark-public)
 - [Archipelago](https://archipelago.builders/)
 - [btc-safe bitcoin multisig coordinator](https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo/2957)
@@ -62,7 +62,7 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [Project Eleven reviews SHRINCs](https://x.com/projecteleven/status/2093450676529774992) - [Discussion](https://stacker.news/items/1580564/r/Scoresby)
 
 # Tools
-- [Bitcoin calendar gets a timeline view](https://bitcoin-calendar.org/en?view=timeline) https://stacker.news/items/1598228/r/Scoresby
+- [Bitcoin calendar gets a timeline view](https://bitcoin-calendar.org/en?view=timeline) - [Discussion](https://stacker.news/items/1598228/r/Scoresby)
 - [BIP Explorer](https://bipexplorer.com/)
 - [SiriScore - analyze bitcoin transaction privacy](https://siriscore.xyz/)
 - [Entropylab](https://entropylab.online/)
@@ -70,9 +70,9 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [Wallet playground](https://walletplayground.com/)
 
 # News
-- [Liquid staged recovery update](https://blog.liquid.net/liquid-network-staged-recovery-update/) https://stacker.news/items/1598699/r/Scoresby
+- [Liquid staged recovery update](https://blog.liquid.net/liquid-network-staged-recovery-update/) - [Discussion](https://stacker.news/items/1598699/r/Scoresby)
 - [Would you trust an entirely AI-written bitcoin node implementation?](https://stacker.news/items/1598294/r/Scoresby)
-- [Claude finds ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) https://stacker.news/items/1596752/r/Scoresby
+- [Claude finds ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - [Discussion](https://stacker.news/items/1596752/r/Scoresby)
 - [fiatjaf doesn't like lightning anymore](https://www.youtube.com/watch?v=2PD9UsU_jY4) selections from [transcript](https://lightning.news/fiatjaf-drivechain-declaring-lightning-broken-beyond-repair/)
 - [Binance Pool closing](https://www.binance.com/en/support/announcement/detail/2b45800173fd44f48b4517f25f941434)
 - [Lightspark dotMoney - Money as a file](https://lightning.news/lightspark-dotmoney-money-as-file/)
