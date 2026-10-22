@@ -16,6 +16,7 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [Blink bounty](https://stacker.news/items/1587777/r/Scoresby) - [followup](https://www.blink.sv/blog/phase-two-following-the-coins-in-public)
 
 # BIPs
+- [BIP 138 - Compact Encryption Scheme for Non-seed Wallet Data](https://github.com/bitcoin/bips/blob/master/bip-0138.md)
 - [BIP Draft - Cosigner Spending Policies](https://delvingbitcoin.org/t/bip-draft-co-signer-spending-policies/2955)
 - [BIP Draft - One Byte message type ID alias assignment](https://groups.google.com/g/bitcoindev/c/YjrkzS_Sjes)
 - [BIP Draft - Wallet label synchronization](https://groups.google.com/g/bitcoindev/c/p6UUOdGi9YI)
@@ -33,14 +34,19 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [Bitcoin Data Labs new website](https://bitcoindatalabs.org/)
 - [Bitpost P2P shop](http://www.bitpost.shop/) - [discussion](https://stacker.news/items/1591653/r/Scoresby)
 - [frost-wallet](https://github.com/olegfomenko/frost-wallet)
-- [landfall - OCEAN mining rewards via LN with a single recovery phrase](https://github.com/vincenzopalazzo/landfall)
 - [Bark Dice](https://barkdice.com/)
-- [arkpool](https://arkpool.org/) - [Discussion](https://stacker.news/items/1587244/r/Scoresby)
 - [BitBox adds lightning to all devices](https://blog.bitbox.swiss/en/introducing-lightning-in-the-bitboxapp/)
 - [find my nuts mesh network](https://github.com/zeugmaster/find-my-nuts)
 - [Lightning Pay Kit](https://pseudozach.github.io/lightning-pay-kit/)
 - [zaptrain](https://zaptrain.com/)
 - [Shhark wallet](https://gitlab.com/PiHiker/shhark/-/tree/shhark-main)
+
+# Mining
+- [arkpool](https://arkpool.org/) - [Discussion](https://stacker.news/items/1587244/r/Scoresby)
+- [landfall - OCEAN mining rewards via LN with a single recovery phrase](https://github.com/vincenzopalazzo/landfall)
+- [bitwater](https://heatbit.com/?v=2)
+- [hashpool](https://hashpool.dev/articles/what-is-hashpool/) - [repo](https://forge.anarch.diy/vnprc/hashpool)
+- [Braiins no longer using AntPool templates?](https://stacker.news/items/1595106)
 
 # Research
 - [Shielded Bitcoin](https://www.allocinit.xyz/uploads/shielded-bitcoin.pdf) -[blog post](https://allocinit.notion.site/Shielded-Bitcoin-Private-Transfers-on-Bitcoin-L1-3e436974087f80f586acf2462bc547a5) - [Discussion](https://stacker.news/items/1585317/r/Scoresby)
